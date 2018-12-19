@@ -1,4 +1,4 @@
-# Dynamic JS(ES6) Task Lisk
+# Dynamic JS(ES6) Task List
 
 A simple Javascript task list create with the latest ES6
 
