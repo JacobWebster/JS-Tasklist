@@ -1,6 +1,7 @@
 # Dynamic JS(ES6) Task List
 
-A simple Javascript task list create with the latest ES6
+A simple Javascript task list create with the latest ES6.
+View in action [click here](https://jacobwebster.github.io/JS-Tasklist/)
 
 ## What I used
 - [VS Code](https://code.visualstudio.com/) my text editor of choice
